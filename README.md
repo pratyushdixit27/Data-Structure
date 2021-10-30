@@ -8,6 +8,6 @@ It will contain all the questions of Data Structure from basic to medium and har
 
 Linked List -- 1) Insertion: At the begining, In the middle, In the end, At any position.
 
-Insert at Middle, At any position : USING TORTOISE AND HARE METHOD
+Insert at Middle, At any position : USING TORTOISE AND HARE METHOD (Fast / Slow)
 
 Linked List -- 2) Deletion: At the begining, In the middle, In the end, At any particular position.
