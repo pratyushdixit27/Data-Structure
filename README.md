@@ -11,3 +11,5 @@ Linked List -- 1) Insertion: At the begining, In the middle, In the end, At any 
 Insert at Middle, At any position : USING TORTOISE AND HARE METHOD (Fast / Slow)
 
 Linked List -- 2) Deletion: At the begining, In the middle, In the end, At any particular position.
+
+ When their is Loop in Linked List: (slow==fast) and to print the data of loop: (slow==temp) 
